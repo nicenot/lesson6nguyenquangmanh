@@ -1,0 +1,4 @@
+ - hiển thị dữ liệu (mok data cung cấp)
+ - thực hiện thêm mới dữ liệu
+ - sửa đỏi dữ liệu 
+ - xóa dữ liệu
